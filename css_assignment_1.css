@@ -1,0 +1,37 @@
+#heading{
+    color: red;
+}
+#heading_2{
+    color: green;
+    font: italic;
+    font-style: italic;
+}
+#strike{
+    text-decoration: line-through;
+}
+#color{
+    background-color: yellow;
+}
+#underline{
+    text-decoration: underline;
+    font-style: italic;
+}
+#heading_3{
+    color: red;
+}
+#linespace{
+    letter-spacing: 5px;
+}
+#bold{
+    font-weight: 800;
+    color: gray;
+}
+#size{
+    font-size: xx-small;
+}
+#italic{
+    font-style: italic;
+}
+#website{
+    background-color: yellow;
+}
